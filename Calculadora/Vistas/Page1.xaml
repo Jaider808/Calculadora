@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Calculadora.Vistas.Page1"
+             NavigationPage.HasNavigationBar="False">
+    <StackLayout BackgroundColor="#56cbed"
+                 Spacing="80">
+        <Label Text="Calculadora"
+               FontSize="35"
+               FontAttributes="Bold"
+               Margin="0,20,0,0"
+               HorizontalOptions="Center" />
+        <Frame Margin="20,0,20,0"
+               CornerRadius="18"
+               HasShadow="False">
+            <StackLayout Spacing="7">
+                <Image Source="calculadora.png"/>
+            </StackLayout>
+        </Frame>
+        <Button Text="Iniciar"
+                TextColor="Black"
+                CornerRadius="10"
+                Margin="20,0"
+                FontAttributes="Bold"
+                BackgroundColor="#cdd2d4"
+                FontSize="Medium" 
+                x:Name="btniniciar"
+                Clicked="btniniciar_Clicked"/>
+    </StackLayout>
+</ContentPage>

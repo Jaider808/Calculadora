@@ -1,0 +1,16 @@
+C:\Users\jaide\Documents\Programacion\Visual Studio\Calculadora\Calculadora\bin\Debug\netstandard2.0\Calculadora.deps.json
+C:\Users\jaide\Documents\Programacion\Visual Studio\Calculadora\Calculadora\bin\Debug\netstandard2.0\Calculadora.dll
+C:\Users\jaide\Documents\Programacion\Visual Studio\Calculadora\Calculadora\bin\Debug\netstandard2.0\Calculadora.pdb
+C:\Users\jaide\Documents\Programacion\Visual Studio\Calculadora\Calculadora\obj\Debug\netstandard2.0\Calculadora.csproj.AssemblyReference.cache
+C:\Users\jaide\Documents\Programacion\Visual Studio\Calculadora\Calculadora\obj\Debug\netstandard2.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaide\Documents\Programacion\Visual Studio\Calculadora\Calculadora\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jaide\Documents\Programacion\Visual Studio\Calculadora\Calculadora\obj\Debug\netstandard2.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\jaide\Documents\Programacion\Visual Studio\Calculadora\Calculadora\obj\Debug\netstandard2.0\Calculadora.AssemblyInfo.cs
+C:\Users\jaide\Documents\Programacion\Visual Studio\Calculadora\Calculadora\obj\Debug\netstandard2.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\jaide\Documents\Programacion\Visual Studio\Calculadora\Calculadora\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jaide\Documents\Programacion\Visual Studio\Calculadora\Calculadora\obj\Debug\netstandard2.0\Calculadora.dll
+C:\Users\jaide\Documents\Programacion\Visual Studio\Calculadora\Calculadora\obj\Debug\netstandard2.0\refint\Calculadora.dll
+C:\Users\jaide\Documents\Programacion\Visual Studio\Calculadora\Calculadora\obj\Debug\netstandard2.0\Calculadora.pdb
+C:\Users\jaide\Documents\Programacion\Visual Studio\Calculadora\Calculadora\obj\Debug\netstandard2.0\ref\Calculadora.dll
+C:\Users\jaide\Documents\Programacion\Visual Studio\Calculadora\Calculadora\obj\Debug\netstandard2.0\Vistas\Calculo.xaml.g.cs
+C:\Users\jaide\Documents\Programacion\Visual Studio\Calculadora\Calculadora\obj\Debug\netstandard2.0\Vistas\Page1.xaml.g.cs
